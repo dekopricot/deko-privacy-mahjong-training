@@ -28,4 +28,4 @@ Googleのプライバシーポリシーおよびデータの取り扱いにつ�
 
 ## 5. お問い合わせ
 本プライバシーポリシーに関するお問い合わせは、GitHubリポジトリのIssueにて受け付けております。
-[https://github.com/dekopricot/deko-mahjong-training-contact](https://github.com/dekopricot/deko-mahjong-training-contact)
+[https://dekopricot.github.io/deko-privacy-mahjong-training/](https://dekopricot.github.io/deko-privacy-mahjong-training/)
